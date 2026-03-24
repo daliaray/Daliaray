@@ -1,7 +1,7 @@
 # Hi, I'm Dalia Rayane 👋
 
 🎓 Networking Engineer  
-💻 Full-Stack Developer | IoT Enthusiast  
+💻 Full-Stack Developer | IoT & AI Enthusiast  
 📍 Algeria  
 
 ---
@@ -20,6 +20,14 @@ ESP8266 + Fingerprint sensor connected to backend
 Smart system for detecting soil dryness using sensors  
 🔗 https://github.com/daliaray/IoT-Soil-Moisture-Monitoring-System  
 
+### 🤖 AI - Student Absenteeism Prediction
+
+Developed a machine learning model using neural networks to predict student absenteeism based on dataset analysis.
+
+- Data preprocessing using Excel datasets  
+- Neural network model implementation  
+- Predictive analysis for attendance improvement  
+
 ---
 
 ## 🛠️ Skills
@@ -27,7 +35,8 @@ Smart system for detecting soil dryness using sensors
 - Programming: Java, JavaScript, TypeScript  
 - Web: Angular, Node.js, Express  
 - Database: MySQL  
-- IoT: ESP8266, Arduino, Sensors  
+- IoT: ESP8266, Arduino, Sensors
+- AI: Neural Networks, Basic Machine Learning 
 - Tools: Docker, Git, Linux  
 
 ---
