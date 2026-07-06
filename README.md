@@ -7,6 +7,15 @@
 ---
 
 ## 🚀 Projects
+### 🤖 AI - predictive modeling and time-series analysis using deep learning
+
+Developed a machine learning model using neural networks to predict student absenteeism based on dataset analysis.
+
+- Data preprocessing using Excel datasets  
+- Neural network model implementation  
+- Predictive analysis for attendance improvement  
+https://github.com/daliaray/student-attendance-prediction-lstm
+
 
 ### 🧠 SaaS School Attendance System
 Full-stack platform using Angular, Node.js, MySQL & Docker  
@@ -20,13 +29,6 @@ ESP8266 + Fingerprint sensor connected to backend
 Smart system for detecting soil dryness using sensors  
 🔗 https://github.com/daliaray/IoT-Soil-Moisture-Monitoring-System  
 
-### 🤖 AI - Student Absenteeism Prediction
-
-Developed a machine learning model using neural networks to predict student absenteeism based on dataset analysis.
-
-- Data preprocessing using Excel datasets  
-- Neural network model implementation  
-- Predictive analysis for attendance improvement  
 
 ---
 
